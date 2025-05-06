@@ -1,5 +1,5 @@
 .projects-section {
-  background-image: url('C:\Users\KIIT0001\OneDrive\Desktop\Portfolio\portfolio\src\assets\projects.jpg'); /* <-- Use a relative path inside public folder */
+  background-image: url('C:\Users\KIIT0001\OneDrive\Desktop\Portfolio\src\assets\projects.jpg'); /* <-- Use a relative path inside public folder */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
